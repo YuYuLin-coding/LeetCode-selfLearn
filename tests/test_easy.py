@@ -9,4 +9,3 @@ def test_plus_one():
     assert result == [4,3,2,2]
     result = a.plusOne([9])
     assert result == [1,0]
-
