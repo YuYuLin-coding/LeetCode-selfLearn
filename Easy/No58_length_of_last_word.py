@@ -12,8 +12,6 @@ A word is a maximal
 substring
  consisting of non-space characters only.
 
- 
-
 Example 1:
 
 Input: s = "Hello World"
@@ -29,7 +27,6 @@ Example 3:
 Input: s = "luffy is still joyboy"
 Output: 6
 Explanation: The last word is "joyboy" with length 6.
- 
 
 Constraints:
 
@@ -37,6 +34,7 @@ Constraints:
 s consists of only English letters and spaces ' '.
 There will be at least one word in s.
 '''
+
 
 class Solution:
     def lengthOfLastWord0(self, s: str) -> int:

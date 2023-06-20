@@ -30,7 +30,10 @@ Constraints:
 nums contains distinct values sorted in ascending order.
 -104 <= target <= 10
 '''
+
 from typing import List
+
+
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
         index = 0
