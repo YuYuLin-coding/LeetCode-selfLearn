@@ -55,6 +55,6 @@ class Solution:
         nums1.sort()
 
 a = Solution()
-nums1 = [1,2,3,0,0,0]
-a.merge(nums1=nums1, m=3, nums2=[2,5,6], n=3)
+nums1 = [1, 2, 3, 0, 0, 0]
+a.merge(nums1=nums1, m=3, nums2=[2, 5, 6], n=3)
 print(nums1)

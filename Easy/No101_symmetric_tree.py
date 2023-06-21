@@ -3,7 +3,7 @@ No: 101
 Title: Symmetric Tree
 Tags: Tree, Depth-First Search, Breadth-First Search, Binary Tree
 Difficulty: Easy
-Date: 2023-06-19
+Date: 2023-06-20
 Link: https://leetcode.com/problems/same-tree/
 
 Given the root of a binary tree, check whether it is a mirror of itself (i.e., symmetric around its center).
@@ -26,8 +26,6 @@ Follow up: Could you solve it both recursively and iteratively?
 '''
 
 # Definition for a binary tree node.
-from typing import Optional
-
 
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
