@@ -4,7 +4,7 @@ Title: Linked List Cycle
 Tags: Hash Table, Linked List, Two Pointers
 Difficulty: Easy
 Date: 2023-06-26
-https://leetcode.com/problems/linked-list-cycle/
+Link: https://leetcode.com/problems/linked-list-cycle/
 
 Given head, the head of a linked list, determine if the linked list has a cycle in it.
 
